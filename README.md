@@ -1,4 +1,4 @@
-Tic Tac Toe Game
+
 Tic Tac Toe Game created using HTML, CSS, and JavaScript:
 
 - The game is played on a 3x3 grid, where two players take turns marking X's and O's.
